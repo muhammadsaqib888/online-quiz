@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689330246987",
+    "project_id": "newfsc11",
+    "storage_bucket": "newfsc11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689330246987:android:b6e4b0e84004a25069c4ce",
+        "android_client_info": {
+          "package_name": "com.fsc1stnonclass.a11thclassmcqs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689330246987-m1taq83og4ve84qp7ru7f4gqlp5drc7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfr9naaIshrW9QyaawnfblVgP11QyphyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689330246987-m1taq83og4ve84qp7ru7f4gqlp5drc7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
